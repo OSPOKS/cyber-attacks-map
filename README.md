@@ -5,6 +5,8 @@ A web application that displays live cyber attacks on a map with real-time IP ad
 
 ## Setup
 
+## You need to replace the placeholder with your own API key obtained from [VirusTotal](https://www.virustotal.com/gui/home/upload). To get an API key, sign up for an account on VirusTotal, and generate your API key from the [VirusTotal API page](https://developers.virustotal.com/reference/getting-started)
+
 ### Backend
 
 1. Navigate to the `backend` directory:
@@ -15,9 +17,7 @@ A web application that displays live cyber attacks on a map with real-time IP ad
     ```bash
     npm install
     ```
-3. Create a `.env` file with your VirusTotal API key:
-    ```env
-    VIRUSTOTAL_API_KEY=your_api_key_here
+
     ```
 4. Start the server:
     ```bash
