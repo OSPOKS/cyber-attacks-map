@@ -1,0 +1,14 @@
+{
+  "name": "cyber-attacks-backend",
+  "version": "1.0.0",
+  "description": "Backend server for live cyber attacks map",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.0.0",
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  }
+}
