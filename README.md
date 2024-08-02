@@ -7,9 +7,9 @@ A web application that displays live cyber attacks on a map with real-time IP ad
 
 ## You need to replace .env with your own API key obtained from [VirusTotal](https://www.virustotal.com/gui/home/upload). To get an API key, sign up for an account on VirusTotal, and generate your API key from the [VirusTotal API page](https://developers.virustotal.com/reference/getting-started)
 
-  ```bash
-    git clone https://github.com/Thajudecodes/cyber-attacks-map.git
-    ```
+   
+  ###  git clone https://github.com/Thajudecodes/cyber-attacks-map.git
+  
 
 ### Backend
 
